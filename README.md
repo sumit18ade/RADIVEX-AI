@@ -7,7 +7,6 @@
 RADIVEX AI is an enhanced and independently developed version built upon the existing ViT-Med research codebase. The project extends the inherited chest-radiograph AI workflow with additional dataset-preparation utilities, validation scripts, configuration work, and planned model experiments.
 
 This repository acknowledges the original codebase and research contributions while documenting the additional work carried out for RADIVEX AI.
-
 ---
 
 ## Project Overview
